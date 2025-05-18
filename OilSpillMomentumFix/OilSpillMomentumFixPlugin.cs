@@ -12,7 +12,7 @@ namespace OilSpillMomentumFix
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "Gorakh";
         public const string PluginName = "OilSpillMomentumFix";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         static OilSpillMomentumFixPlugin _instance;
         internal static OilSpillMomentumFixPlugin Instance => _instance;
