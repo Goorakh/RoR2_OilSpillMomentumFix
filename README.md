@@ -1,6 +1,6 @@
 # OilSpillMomentumFix
 
-Fixes Chef Oil Spill permanently altering your air acceleration after it ends.
+Fixes Chef Oil Spill permanently altering your air acceleration after it ends. Clientside and vanilla compatible.
 
 ## Why?
 
